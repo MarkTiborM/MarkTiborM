@@ -5,8 +5,8 @@ I specialize in leveraging data-driven insights to help organizations make infor
 ---
 
 🧰Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50
-
+---
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP logo" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50">
 <!--
 **MarkTiborM/MarkTiborM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
