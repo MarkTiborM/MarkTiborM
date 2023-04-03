@@ -1,7 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mark Mezei! 
 Hi there! I'm a Business/Software Data Analyst with a strong background in Python programming, databases, and systems.
-
+---
 I specialize in leveraging data-driven insights to help organizations make informed decisions and drive growth. Whether it's analyzing sales trends, optimizing marketing campaigns, or building custom software solutions, I love finding innovative ways to turn data into actionable insights.
+---
+
+🧰Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50
+
 <!--
 **MarkTiborM/MarkTiborM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
