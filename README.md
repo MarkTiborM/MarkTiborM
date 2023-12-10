@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mark Mezei! 
-I'm a Business/Software Data Analyst Student 
+I'm a Computer Science Student at San Diego State University
 ---
 
 🧰Toolbox
