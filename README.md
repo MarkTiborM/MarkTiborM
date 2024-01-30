@@ -9,7 +9,7 @@ I'm an Information Systems Cybersecurity Student
 
 - 🔭 I’m currently working on building my portfolio 
 - 🌱 I’m currently learning how to virtualize and manage servers with oVirt
-- 📫 How to reach me: https://marktibormezei.com
+- 📫 How to reach me: https://markmezei.com
 <!--
 **MarkTiborM/MarkTiborM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
