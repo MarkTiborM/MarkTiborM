@@ -1,10 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mark Mezei! 
-I'm an Information Systems Cybersecurity Student
----
-
-🧰Toolbox
----
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP logo" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50">
+I'm an Information Systems Cybersecurity Student @ CSUSB
 ---
 
 - 🔭 I’m currently working on building my portfolio 
