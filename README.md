@@ -6,7 +6,7 @@ I'm an Information Systems Cybersecurity Student @ CSUSB
 - 🌱 I’m currently learning how to virtualize and manage servers with oVirt
 - 📫 How to reach me: marktibormezei@gmail.com
 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mark-mezei-11472235b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mark-mezei-11472235b?trk=profile-badge">Mark Mezei</a></div>
+Linkedin : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mark-mezei-11472235b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mark-mezei-11472235b?trk=profile-badge">Mark Mezei</a></div>
               
 <!--
 **MarkTiborM/MarkTiborM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
