@@ -2,7 +2,7 @@
 I'm an Information Systems Cybersecurity Student @ CSUSB
 ---
 
-- 🔭 I’m currently working on building my portfolio and gaining experience
+- 🔭 I’m currently working on making tools and programs for linux to expand my portfolio
 - 📫 How to reach me: marktibormezei@gmail.com
 
 
